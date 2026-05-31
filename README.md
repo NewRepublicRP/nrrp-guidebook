@@ -1,8 +1,6 @@
-# New Republic RP Guidebook
+# Welcome
 
-<div align="center">
-  <img src="assets/nrrp-logo.png" alt="New Republic RP Logo" width="260" />
-</div>
+<div align="center"><img src=".gitbook/assets/nrrp-logo.png" alt="New Republic RP Logo" width="260"></div>
 
 Welcome to the official **New Republic RP Guidebook**.
 
