@@ -11,7 +11,7 @@
 * [General Rules](rules/general-rules.md)
 * [Server Rules](rules/server-rules.md)
 * [Roleplay Rule Definitions](rules/rule-definitions.md)
-* [Server Rules](rules/server-rules.md)
+* [Penal Code](rules/laws.md)
 
 ## Roleplay Standards
 * [Civilian Roleplay](roleplay/civilian-roleplay.md)
